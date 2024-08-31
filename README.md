@@ -1,6 +1,8 @@
-## Instalación
+# Mi Proyecto de Polinomios
 
 Este proyecto es una calculadora de polinomios que permite al usuario ingresar términos de polinomios, realizar operaciones como suma, resta y derivadas, y graficar el polinomio resultante. La interfaz gráfica está construida con Tkinter y se puede ejecutar fácilmente en cualquier entorno que soporte Python.
+
+## Instalación
 
 ### Requisitos previos
 
