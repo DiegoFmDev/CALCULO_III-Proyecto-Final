@@ -11,7 +11,7 @@ Asegúrese de tener Python instalado en su sistema. Puede descargarlo desde [pyt
 1. **Clonar el repositorio:**
 
     ```bash
-    clon de git https://github.com/tunombredeusuario/mi_proyecto.git
+    git clone https://github.com/DiegoFmDev/CALCULO_III-Proyecto-Final.git
     cd mi_proyecto
     ```
 
@@ -20,27 +20,27 @@ Asegúrese de tener Python instalado en su sistema. Puede descargarlo desde [pyt
     En Windows:
 
     ```bash
-    pitón -m venv venv
-    venv\Scripts\activar
+    python -m venv venv
+    venv\Scripts\activate
     ```
 
     En macOS/Linux:
 
     ```bash
     python3 -m venv venv
-    fuente venv/bin/activar
+    source venv/bin/activate
     ```
 
 3. **Instalar las dependencias:**
 
     ```bash
-    instalación de pip -r requisitos.txt
+    pip install -r requirements.txt
     ```
 
 4. **Ejecute la aplicación:**
 
     ```bash
-    Python principal.py
+    Python main.py
     ```
 
 ## Uso
